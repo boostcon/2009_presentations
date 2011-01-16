@@ -7,7 +7,7 @@ Monday Presentations
  * [Icefishing for Neutrinos with Boost - Serialization Tutorial and Examples](https://github.com/boostcon/2009_presentations/raw/master/mon/icefishing.pdf "Icefishing for Neutrinos with Boost")
  * [The Meta State Machine (Msm) library - zip](https://github.com/boostcon/2009_presentations/raw/master/mon/Material_Msm.zip "The Meta State Machine library")
  * [High-Level Parallel Programming EDSL - pdf](https://github.com/boostcon/2009_presentations/raw/master/mon/ESDL.pdf "High-Level Parallel Programming EDSL")
- * [Boost++0x #1: Hands-on rvalue References](https://github.com/boostcon/2009_presentations/raw/master/mon/HandsOnCXX0x.markdown "Boost++0x #1: Hands-on rvalue References")
+ * [Boost++0x #1: Hands-on rvalue References](https://github.com/boostcon/2009_presentations/raw/master/tue/HandsOnCXX0x.markdown "Boost++0x #1: Hands-on rvalue References")
 
 Tuesday Presentations
 
@@ -50,3 +50,7 @@ Friday Presentations
 All library in a week presentations:
 
  * [Library in Week 2009 - std::rdb - zip](https://github.com/boostcon/2009_presentations/raw/master/std_rdb.zip "Library in a week 2009 std::rdb -- all presentations")
+
+Misc
+
+* [Nevin's Photo Gallery](http://gallery.me.com/nevin#100165)
