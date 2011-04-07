@@ -13,7 +13,7 @@ For Unix-like systems, those instructions should suffice. On Windows, you have t
 
   3. Read up about the major C++0x features we'll be using in Boost++0x. These features are:
 
-    + [Rvalue references](https://www.boostpro.com/trac/wiki/BoostCon09/RValue101) 
+    + [Rvalue references](http://cpp-next.com/archive/2009/08/want-speed-pass-by-value/) 
     + [Variadic templates](https://github.com/boostcon/2009_presentations/raw/master/tue/variadic.markdown) 
     + [Decltype](https://github.com/boostcon/2009_presentations/raw/master/tue/decltype.markdown)
     + [ExtendedSFINAE](https://github.com/boostcon/2009_presentations/raw/master/tue/SFINAE.markdown)
